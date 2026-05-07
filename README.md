@@ -106,8 +106,4 @@ Through this project, I learned:
 
 ---
 
-# Author
 
-Nikita Saxena
-
-GitHub: [https://github.com/Nikita-Saxe](https://github.com/Nikita-Saxe)
